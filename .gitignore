@@ -52,3 +52,26 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Rider specific files
+/.idea
+/.idea/.idea.IronBlockAsync/.idea
+*.DotSettings
+*.DotSettings.user
+
+# Visual Studio specific files (if also using VS)
+.vs/
+*.VC.db
+*.sdf
+*.opensdf
+*.docstates
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Test results
+TestResults/
+
+# Resharper specific files
+_ReSharper.*/
