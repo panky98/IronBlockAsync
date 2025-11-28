@@ -1,3 +1,6 @@
+[![NuGet](https://img.shields.io/nuget/v/IronBlockAsync.svg?label=NuGet%20Version)](https://www.nuget.org/packages/IronBlockAsync/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/IronBlockAsync.svg)](https://www.nuget.org/packages/IronBlockAsync/)
+
 # IronBlock (Async Fork)
 
 **IronBlock** --- a .NET interpreter for Blockly‑style block programs,
