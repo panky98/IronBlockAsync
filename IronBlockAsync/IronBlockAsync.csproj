@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>richorama,panky98</Authors>
     <PackageProjectUrl>https://github.com/panky98/IronBlockAsync</PackageProjectUrl>
     <License>MIT</License>
