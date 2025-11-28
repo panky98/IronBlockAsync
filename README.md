@@ -65,7 +65,7 @@ public class MyCustomBlock : IBlock
 
 ## 🎯 What's New / Differences from Upstream
 
--   Added asynchronous execution (`EvaluateAsync`)
+-   Added asynchronous execution
 -   Improved extensibility
 
 ## 📚 Documentation & Links
